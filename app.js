@@ -117,3 +117,5 @@ alert ("Your zakat value is " + result)
 
 
 
+  
+
